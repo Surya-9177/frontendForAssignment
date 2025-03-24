@@ -1,3 +1,16 @@
+You can register user
+
+some already registered user credentials
+username: 'rahul'
+password: 'rahul@2021'
+
+useername: 'hasini'
+password: 'hasini@630'
+
+username: 'sunil'
+password: 'sunil@2021'
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,19 @@
+.dash-list-items{
+    list-style-type: none;
+}
+.card-item{
+    color: #ffffff;
+    text-decoration: none;
+}
+.dash-con{
+    height: 100vh;
+    background-color: #000000;
+    padding: 15px;
+}
+.card-link{
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+.head{
+    color: red;
+}

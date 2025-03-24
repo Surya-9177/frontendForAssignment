@@ -1,0 +1,34 @@
+.login-home-con{
+    background-image: url('https://royaltyfreefootages.com/upload/video/1633086727_4K-Zoom-world-map-background.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-btn{
+    width: 120px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 8px;
+    background-color: #04658f;
+    color: #ffffff;
+    margin-top: 8px;
+}
+.login-card{
+    height: 30%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 12px;
+}
+.login-acnt-des{
+    font-size: 18px;
+}
+.b2{
+    background-color: rgb(37, 65, 223);
+}
